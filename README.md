@@ -8,7 +8,6 @@
 ### 💼 Contact Information:
 
 - **Email**: mohantysourav537@gmail.com
-- **Phone**: +91 - 9040236106
 - **LinkedIn**: [SouravMohanty89](https://www.linkedin.com/in/sourav89)
 
 ---
