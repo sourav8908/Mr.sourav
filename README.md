@@ -32,7 +32,11 @@ You can explore all my repositories here: [My GitHub Repositories](https://githu
   <a href="https://www.leetcode.com/sourav_mohanty90" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourav_mohanty90" height="30" width="40" />
   </a>
+  <a href="mailto:mohantysourav537@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg" alt="Email" height="30" width="40" />
+  </a>
 </p>
+
 
 ---
 
