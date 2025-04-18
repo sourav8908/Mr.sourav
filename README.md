@@ -5,10 +5,11 @@
 
 ---
 
-### 💼 Contact Information:
+### 🔗 Explore My Repositories
 
-- **Email**: mohantysourav537@gmail.com
-- **LinkedIn**: [SouravMohanty89](https://www.linkedin.com/in/sourav89)
+Here are some of the repositories I have worked on:
+
+You can explore all my repositories here: [My GitHub Repositories](https://github.com/sourav8908?tab=repositories)
 
 ---
 
@@ -20,9 +21,6 @@
   </a>
   <a href="https://www.leetcode.com/sourav_mohanty90" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourav_mohanty90" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerearth.com/@mohantysourav537" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mohantysourav537" height="30" width="40" />
   </a>
 </p>
 
