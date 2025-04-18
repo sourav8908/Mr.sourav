@@ -132,4 +132,4 @@ Feel free to check out my repositories, and don’t hesitate to reach out if you
 
 ---
 
-This version includes all your **skills**, **contact details**, **academic background**, and **projects**, while maintaining a clean and professional layout. It's ready to use in your GitHub profile. Let me know if you need more adjustments!
+
