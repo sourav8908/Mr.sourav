@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sourav Mohanty</h1>
 <h3 align="center">A passionate Full Stack Developer from India, skilled in Java, Spring Boot, SQL, AWS and Web Technologies.</h3>
 
+
+<p align="center">
+  🔗 Explore my live portfolio: <strong><a href="https://vercel.com/payals-projects-8745ab3c/my-portfolio" target="_blank">Sourav.tech</a></strong><br/>
+  👨‍💻 Dive into my world of projects, skills, and experience through an interactive UI built with ❤️ using React and Spring Boot.
+</p>
+
+
+- 💼 Currently pursuing M.Tech at **IIT Patna** and completed B.Tech in Computer Engineering from **GITA**.
+- 🔬 Previously interned at **ISRO**, **Coding Ninjas**, and **Tech-Octa-Net**.
+- 💻 Love building backend-intensive products, RESTful APIs, and real-world applications.
 - ⚡ Fun Fact: **I love debugging complex issues — sometimes solving a tricky bug feels better than winning a game! 🎯**
 
 ---
