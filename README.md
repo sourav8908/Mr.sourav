@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  🔗 Explore my live portfolio: <strong><a href="https://my-portfolio-sigma-steel-91.vercel.app/" target="_blank">Sourav.tech</a></strong><br/>
+  🔗 Explore my live portfolio: <strong><a href="https://sourav8908-portfolio.vercel.app/" target="_blank">Sourav.tech</a></strong><br/>
   👨‍💻 Dive into my world of projects, skills, and experience through an interactive UI built with ❤️ using React and Spring Boot.
 </p>
 
