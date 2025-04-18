@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourav Mohanty</h1>
-<h3 align="center">A passionate Full Stack Developer from India, skilled in Java, Spring Boot, SQL, and Web Technologies.</h3>
+<h3 align="center">A passionate Full Stack Developer from India, skilled in Java, Spring Boot, SQL, AWS and Web Technologies.</h3>
 
 - ⚡ Fun Fact: **I love debugging complex issues — sometimes solving a tricky bug feels better than winning a game! 🎯**
 
