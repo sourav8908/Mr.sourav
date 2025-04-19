@@ -25,16 +25,7 @@ You can explore all my repositories here: [My GitHub Repositories](https://githu
 
 ### 🌐 Connect with me:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sourav89/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sourav's LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/sourav_mohanty90" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourav_mohanty90" height="30" width="40" />
-  </a>
-  <a href="mailto:mohantysourav537@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg" alt="Email" height="30" width="40" />
-  </a>
+<p><a href="https://sourav8908-portfolio.vercel.app" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Soumyajit.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> </a> <a href="https://www.linkedin.com/in/sourav89/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
 </p>
 
 
