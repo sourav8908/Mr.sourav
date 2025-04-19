@@ -8,8 +8,10 @@
 </p>
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px; max-width: 600px;">
-    <ul style="list-style: none; padding-left: 0;">
+
+  <!-- Left side: Text content -->
+  <div style="flex: 1; min-width: 300px; max-width: 600px;">
+    <ul style="list-style: none; padding-left: 0; font-size: 16px; line-height: 1.6;">
       <li>💼 Currently pursuing M.Tech at <strong>IIT Patna</strong> and completed B.Tech in Computer Engineering from <strong>GITA</strong>.</li>
       <li>🔬 Previously interned at <strong>ISRO</strong>, <strong>Coding Ninjas</strong>, and <strong>Tech-Octa-Net</strong>.</li>
       <li>💻 Love building backend-intensive products, RESTful APIs, and real-world applications.</li>
@@ -17,10 +19,13 @@
     </ul>
   </div>
 
-  <div style="min-width: 280px;">
-    <img src="./thoughtworks-gif_dribbble.gif" height="290px" alt="Animated developer gif" style="max-width: 100%; height: auto;" />
+  <!-- Right side: Image -->
+  <div style="min-width: 280px; margin-left: 20px;">
+    <img src="./thoughtworks-gif_dribbble.gif" height="290px" alt="Developer GIF" style="max-width: 100%; height: auto;" />
   </div>
+
 </div>
+
 
 <hr />
 
