@@ -7,19 +7,27 @@
   👨‍💻 Dive into my world of projects, skills, and experience through an interactive UI built with ❤️ using React and Spring Boot.
 </p>
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
-- 💼 Currently pursuing M.Tech at **IIT Patna** and completed B.Tech in Computer Engineering from **GITA**.
-- 🔬 Previously interned at **ISRO**, **Coding Ninjas**, and **Tech-Octa-Net**.
-- 💻 Love building backend-intensive products, RESTful APIs, and real-world applications.
-- ⚡ Fun Fact: **I love debugging complex issues — sometimes solving a tricky bug feels better than winning a game! 🎯**
+<div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px; max-width: 600px;">
+    <ul style="list-style: none; padding-left: 0;">
+      <li>💼 Currently pursuing M.Tech at <strong>IIT Patna</strong> and completed B.Tech in Computer Engineering from <strong>GITA</strong>.</li>
+      <li>🔬 Previously interned at <strong>ISRO</strong>, <strong>Coding Ninjas</strong>, and <strong>Tech-Octa-Net</strong>.</li>
+      <li>💻 Love building backend-intensive products, RESTful APIs, and real-world applications.</li>
+      <li>⚡ Fun Fact: <strong>I love debugging complex issues — sometimes solving a tricky bug feels better than winning a game! 🎯</strong></li>
+    </ul>
+  </div>
 
----
+  <div style="min-width: 280px;">
+    <img src="./thoughtworks-gif_dribbble.gif" height="290px" alt="Animated developer gif" style="max-width: 100%; height: auto;" />
+  </div>
+</div>
 
-### 🔗 Explore My Repositories
+<hr />
 
-Here are some of the repositories I have worked on:
+<h3>🔗 Explore My Repositories</h3>
+<p>Here are some of the repositories I have worked on:</p>
+<p>You can explore all my repositories here: <a href="https://github.com/sourav8908?tab=repositories" target="_blank">My GitHub Repositories</a></p>
 
-You can explore all my repositories here: [My GitHub Repositories](https://github.com/sourav8908?tab=repositories)
 
 ---
 
