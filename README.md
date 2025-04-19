@@ -7,7 +7,7 @@
   👨‍💻 Dive into my world of projects, skills, and experience through an interactive UI built with ❤️ using React and Spring Boot.
 </p>
 
-
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 - 💼 Currently pursuing M.Tech at **IIT Patna** and completed B.Tech in Computer Engineering from **GITA**.
 - 🔬 Previously interned at **ISRO**, **Coding Ninjas**, and **Tech-Octa-Net**.
 - 💻 Love building backend-intensive products, RESTful APIs, and real-world applications.
