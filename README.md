@@ -25,7 +25,7 @@ You can explore all my repositories here: [My GitHub Repositories](https://githu
 
 ### 🌐 Connect with me:
 
-<p><a href="https://sourav8908-portfolio.vercel.app" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Soumyajit.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> </a> <a href="https://www.linkedin.com/in/sourav89/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
+<p><a href="https://sourav8908-portfolio.vercel.app" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Sourav.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> </a> <a href="https://www.linkedin.com/in/sourav89/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
 </p>
 
 
