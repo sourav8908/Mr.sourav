@@ -96,7 +96,7 @@
 ### 💼 Work Experience (Internships):
 
 - **Research And Development Intern**: Indian Space Research Organization (ISRO), Ahmedabad *(Oct 2023 - Dec 2023)*
-  - Migrated from Arduino to Raspberry Pi using Python on Linux, improving mission efficiency by 30%.
+  - Migrated from Arduino to Raspberry Pi using Python on Linux, enhancing mission efficiency and satellite functionalities by 30% through real-time monitoring, system-level debugging, and data processing.
   - Collaborated with senior scientists and engineers to analyze satellite data, improving Earth observation accuracy.
   - Developed algorithms for real-time satellite data processing, enhancing the system’s responsiveness.
 
