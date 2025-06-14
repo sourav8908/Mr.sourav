@@ -99,11 +99,14 @@
   - Migrated from Arduino to Raspberry Pi using Python on Linux, enhancing mission efficiency and satellite functionalities by 30% through real-time monitoring, system-level debugging, and data processing.
   - Collaborated with senior scientists and engineers to analyze satellite data, improving Earth observation accuracy.
   - Developed algorithms for real-time satellite data processing, enhancing the system’s responsiveness.
+  - Gained hands-on experience with Linux environments and automation scripting relevant to cloud infrastructure management.
 
 - **Front-End Developer Intern**: Tech-Octa-Net Services Pvt Ltd, Bhubaneswar *(Aug 2023 - Oct 2023)*
-  - Enhanced website performance by 10% through optimized code in HTML, CSS, and JavaScript.
-  - Developed backend functionalities using Java (JDBC & Servlets) for seamless integration.
-  - Improved communication between frontend and backend for better data handling.
+  - Improved website performance by optimizing HTML, CSS, and JavaScript code for better user experience.
+  - Implemented backend features using Java (JDBC & Servlets), ensuring smooth integration with frontend systems.
+  - Troubleshot frontend-backend communication to strengthen data handling and application reliability.
+  - Developed problem-solving and debugging skills transferable to cloud application deployment and maintenance.
+
 
 - **Teaching Assistant Intern**: Coding Ninjas *(Nov 2022 - Jan 2023)*
   - Assisted 60+ students in learning Java and Data Structures.
@@ -119,9 +122,19 @@
   - This project detects and tracks nighttime fog over India using infrared satellite data, focusing on cloud movement patterns and environmental monitoring.
 
 - **Smart City Waste Management Portal**:
-  - **Tech Stack**: Java, Servlets, JSP, JDBC, MySQL
-  - Developed a smart waste management portal with role-based access for residents and city officials.
-  - Included features like reporting waste issues, tracking waste management tasks, and data visualization for city officials.
+  - **Tech Stack**: Java, Servlets, JSP, JDBC, MySQL , Node.Js , Express , Docker , jenkin CI/CD pipelines , AWS EC2.
+  - Developed a full-stack waste management system using java , Node.js, Express, MySQL, and RESTful APIs to allow residents to report and track local waste issues.
+  - Containerized the application using Docker and Docker Compose to ensure consistent multi-container environments across development and production.
+  - Automated deployments with Jenkins CI/CD pipelines, integrating GitHub, Docker Hub, and AWS EC2 for smooth workflows.
+  - Deployed and managed the system on AWS EC2 with secure configurations, implementing SSH access, Docker runtime, user authentication, role-based access control, and robust error handling for security and     reliability.
+
+- **Secure File Sharing Platform**:
+  - **Tech Stack**:  Java, Servlets, JSP, JDBC, MySQL , Node.Js , Express , Docker , jenkin CI/CD pipelines , AWS EC2.
+  - Built a secure file sharing platform using Java EE (Servlets, JSP, JDBC) and MySQL with password protection and time-limited access.
+  - Implemented BCrypt hashing, session management, and authentication filters for secure, role-based file access control.
+  - Containerized the app with Docker and Docker Compose for consistent development and deployment.
+  - Deployed and managed the platform on AWS EC2 with secure configurations, integrating CI/CD pipelines via Jenkins for automated build and deployment.
+
 
 ---
 
