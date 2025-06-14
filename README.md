@@ -28,7 +28,7 @@
 
 <h3>🔗 Explore My Repositories</h3>
 <p>Here are some of the repositories I have worked on:</p>
-<p>You can explore all my repositories here: <a href="https://github.com/sourav8908?tab=repositories" target="_blank">My GitHub Repositories</a></p>
+<p>You can explore all my repositories here: <a href="https://github.com/sourav8908?tab=repositories" target="_blank"> My GitHub Repositories</a></p>
 
 
 ---
@@ -121,14 +121,14 @@
   - **Tech Stack**: Python, NumPy, Pandas, Matplotlib, Seaborn, h5py
   - This project detects and tracks nighttime fog over India using infrared satellite data, focusing on cloud movement patterns and environmental monitoring.
 
-- **Smart City Waste Management Portal**:<a href="https://github.com/sourav8908/City-Waste-Management-System?tab=repositories" target="_blank">My GitHub Repositories</a></p>
+- **Smart City Waste Management Portal**: <a href="https://github.com/sourav8908/City-Waste-Management-System?tab=repositories" target="_blank">My GitHub Repositories</a></p>
   - **Tech Stack**: Java, Servlets, JSP, JDBC, MySQL , Node.Js , Express , Docker , jenkin CI/CD pipelines , AWS EC2.
   - Developed a full-stack waste management system using java , Node.js, Express, MySQL, and RESTful APIs to allow residents to report and track local waste issues.
   - Containerized the application using Docker and Docker Compose to ensure consistent multi-container environments across development and production.
   - Automated deployments with Jenkins CI/CD pipelines, integrating GitHub, Docker Hub, and AWS EC2 for smooth workflows.
-  - Deployed and managed the system on AWS EC2 with secure configurations, implementing SSH access, Docker runtime, user authentication, role-based access control, and robust error handling for security and     reliability.
+  - Deployed and managed the system on AWS EC2 with secure configurations, implementing SSH access, Docker runtime, user authentication, role-based access control, and robust error handling for security and reliability.
 
-- **Secure File Sharing Platform**:
+- **Secure File Sharing Platform**: <a href="https://github.com/sourav8908/Secure_File_Share?tab=repositories" target="_blank">My GitHub Repositories</a></p>
   - **Tech Stack**:  Java, Servlets, JSP, JDBC, MySQL , Node.Js , Express , Docker , jenkin CI/CD pipelines , AWS EC2.
   - Built a secure file sharing platform using Java EE (Servlets, JSP, JDBC) and MySQL with password protection and time-limited access.
   - Implemented BCrypt hashing, session management, and authentication filters for secure, role-based file access control.
