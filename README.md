@@ -121,7 +121,7 @@
   - **Tech Stack**: Python, NumPy, Pandas, Matplotlib, Seaborn, h5py
   - This project detects and tracks nighttime fog over India using infrared satellite data, focusing on cloud movement patterns and environmental monitoring.
 
-- **Smart City Waste Management Portal**:
+- **Smart City Waste Management Portal**:<a href="https://github.com/sourav8908/City-Waste-Management-System?tab=repositories" target="_blank">My GitHub Repositories</a></p>
   - **Tech Stack**: Java, Servlets, JSP, JDBC, MySQL , Node.Js , Express , Docker , jenkin CI/CD pipelines , AWS EC2.
   - Developed a full-stack waste management system using java , Node.js, Express, MySQL, and RESTful APIs to allow residents to report and track local waste issues.
   - Containerized the application using Docker and Docker Compose to ensure consistent multi-container environments across development and production.
