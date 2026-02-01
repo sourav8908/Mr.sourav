@@ -125,7 +125,7 @@
 
 ---
 
-### 💾 [EBS Snapshot Cleanup for Cost Optimization](https://github.com/sourav8908/ebs-snapshot-cleanup)
+### 💾 [EBS Snapshot Cleanup for Cost Optimization](https://github.com/sourav8908/ebs-snapshot-cost-optimizer.git)
 **AWS Lambda automation for intelligent snapshot lifecycle management**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
