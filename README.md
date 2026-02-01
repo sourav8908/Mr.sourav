@@ -39,7 +39,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔒 [Docker Security Scanner with Auto-Remediation](https://github.com/sourav8908/docker-security-scanner)
+### 🔒 [Docker Security Scanner with Auto-Remediation](https://github.com/sourav8908/docker-security-scanner.git)
 **Enterprise-grade vulnerability scanner with automated fixes, validation, and CI/CD integration**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -57,7 +57,7 @@
 
 ---
 
-### 💰 [AWS Cost Optimization Analyzer with Real-time Alerts](https://github.com/sourav8908/aws-cost-analyzer)
+### 💰 [AWS Cost Optimization Analyzer with Real-time Alerts](https://github.com/sourav8908/aws-cost-optimization-platform.git)
 **Intelligent cost analysis platform with Slack notifications, forecasting, and anomaly detection**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -75,7 +75,7 @@
 
 ---
 
-### 🔍 [Terraform Drift Detection & Auto-Fix Tool](https://github.com/sourav8908/terraform-drift-detector)
+### 🔍 [Terraform Drift Detection & Auto-Fix Tool](https://github.com/sourav8908/terraform-drift-detector.git)
 **Automated drift detection with intelligent fix generation and CI/CD integration**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
