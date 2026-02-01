@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sourav Mohanty</h1>
-<h3 align="center">Cloud & DevOps Engineer | M.Tech @ IIT Patna | Ex-ISRO Research Intern</h3>
+<h3 align="center">Cloud & DevOps Engineer @ Unloq® | M.Tech @ IIT Patna | Ex-ISRO Research Intern</h3>
+
+<p align="center">
+  <strong>🎉 Excited to announce: I've joined Unloq® as a Cloud & DevOps Engineer! 🚀</strong><br/>
+  <em>Building AI infrastructure and strategic intelligence platforms | Working with AWS, Terraform, Kubernetes & Linux</em>
+</p>
 
 <p align="center">
   <a href="https://sourav8908-portfolio.vercel.app/" target="_blank">
@@ -8,7 +13,7 @@
   <a href="https://www.linkedin.com/in/sourav89/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mohantysourav537@gmail.com">
+  <a href="mailto:sourav_24a07res194@iitp.ac.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -21,9 +26,12 @@
   <tr>
     <td width="60%">
       <ul>
+        <li>💼 <strong>Cloud & DevOps Engineer</strong> at <strong>Unloq®</strong> (Jan 2025 - Present)</li>
+        <li>🚀 Working on <strong>AI infrastructure, strategic intelligence platforms</strong>, and modern cloud builds</li>
         <li>🎓 <strong>M.Tech in Cloud Computing</strong> at <strong>IIT Patna</strong> (2024 - Present)</li>
         <li>🔬 Former <strong>Research & Development Intern at ISRO</strong>, Ahmedabad</li>
         <li>🏆 <strong>Rising Star Award 2025</strong> - Making India Employable Conference & Awards (MIECA)</li>
+        <li>🏅 <strong>Top 10 Finalist</strong> - Agent.ai Hackathon 2024</li>
         <li>☁️ Passionate about <strong>Cloud Architecture, DevOps, Infrastructure Automation & Security</strong></li>
         <li>💡 Building production-ready tools that solve real-world infrastructure challenges</li>
         <li>⚡ <strong>Fun Fact:</strong> I love debugging complex issues — solving a tricky bug feels better than winning a game! 🎯</li>
@@ -39,7 +47,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔒 [Docker Security Scanner with Auto-Remediation](https://github.com/sourav8908/docker-security-scanner.git)
+### 🔒 [Docker Security Scanner with Auto-Remediation](https://github.com/sourav8908/docker-security-scanner)
 **Enterprise-grade vulnerability scanner with automated fixes, validation, and CI/CD integration**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -57,7 +65,7 @@
 
 ---
 
-### 💰 [AWS Cost Optimization Analyzer with Real-time Alerts](https://github.com/sourav8908/aws-cost-optimization-platform.git)
+### 💰 [AWS Cost Optimization Analyzer with Real-time Alerts](https://github.com/sourav8908/aws-cost-analyzer)
 **Intelligent cost analysis platform with Slack notifications, forecasting, and anomaly detection**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -75,7 +83,7 @@
 
 ---
 
-### 🔍 [Terraform Drift Detection & Auto-Fix Tool](https://github.com/sourav8908/terraform-drift-detector.git)
+### 🔍 [Terraform Drift Detection & Auto-Fix Tool](https://github.com/sourav8908/terraform-drift-detector)
 **Automated drift detection with intelligent fix generation and CI/CD integration**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -125,7 +133,7 @@
 
 ---
 
-### 💾 [EBS Snapshot Cleanup for Cost Optimization](https://github.com/sourav8908/ebs-snapshot-cost-optimizer.git)
+### 💾 [EBS Snapshot Cleanup for Cost Optimization](https://github.com/sourav8908/ebs-snapshot-cleanup)
 **AWS Lambda automation for intelligent snapshot lifecycle management**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -219,6 +227,16 @@
 
 ## 💼 Professional Experience
 
+### ☁️ Cloud & DevOps Engineer | **Unloq®, UK**
+*January 2025 - Present*
+
+- Building and managing **AI infrastructure** for UK's most advanced strategic intelligence engine
+- Working on **modern cloud and platform builds** across compute, storage, databases, identity/security, networking, monitoring, and serverless
+- Implementing **Infrastructure as Code** using Terraform and managing containerized workloads with Docker and Kubernetes
+- Developing automation scripts with **Python and Bash** for cloud operations and deployment workflows
+- Collaborating with the leadership team (**CTO Satyen Fakey** and **CEO Yiannis Maos MBE**) on innovative AI-powered solutions
+- Contributing to **decision intelligence platforms** revolutionizing how companies leverage AI
+
 ### 🛰️ Research & Development Intern | **ISRO, Ahmedabad**
 *Oct 2023 - Dec 2023*
 
@@ -251,6 +269,7 @@
 
 ### 🏅 Awards
 - **Rising Star Award 2025** - Making India Employable Conference & Awards (MIECA)
+- **Top 10 Finalist** - Agent.ai Hackathon 2024
 
 ### 📜 Certifications
 - **Oracle Cloud Infrastructure 2023 Certified Foundations Associate** - Oracle
@@ -274,9 +293,10 @@
 
 ## 📈 What I'm Currently Working On
 
-- 🚀 Building enterprise-grade **DevSecOps tools** for production environments
-- ☁️ Deepening expertise in **AWS architecture** and **Infrastructure as Code**
+- 🚀 Building **AI infrastructure** at **Unloq®** for strategic intelligence platforms
+- ☁️ Implementing **modern cloud architectures** with AWS, Terraform, and Kubernetes
 - 🔐 Exploring **container security** and **vulnerability management** at scale
+- 🤖 Developing **automation solutions** for cloud operations and DevOps workflows
 - 📚 Contributing to **open-source DevOps projects**
 - 🎯 Preparing for **AWS Solutions Architect** and **Kubernetes (CKA)** certifications
 
@@ -296,6 +316,12 @@ I believe in:
 ---
 
 ## 🌟 Key Highlights
+
+🎯 **Professional Journey**:
+- **Cloud & DevOps Engineer** at Unloq® - Building AI infrastructure and strategic intelligence platforms
+- **Top 10 Finalist** at Agent.ai Hackathon 2024
+- **Rising Star Award 2025** winner at MIECA
+- Worked with **ISRO scientists** on satellite data processing systems
 
 📊 **Real-World Impact**:
 - Reduced AWS costs by **40%** through automated optimization
@@ -378,6 +404,6 @@ I'm always open to discussing:
 
 ---
 
-**💼 Open for Opportunities:** DevOps Engineer | Cloud Engineer | Site Reliability Engineer | Platform Engineer
+**💼 Current Role:** Cloud & DevOps Engineer @ Unloq® | Building AI Infrastructure
 
-**📧 Quick Contact:** sourav_24a07res194@iitp.ac.in | +91-9040236106
+**📧 Contact:** sourav_24a07res194@iitp.ac.in | +91-9040236106
