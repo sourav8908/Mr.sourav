@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/sourav89/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:sourav_24a07res194@iitp.ac.in">
+  <a href="mailto:mohantysourav537@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -65,7 +65,7 @@
 
 ---
 
-### 💰 [AWS Cost Optimization Analyzer with Real-time Alerts](https://github.com/sourav8908/aws-cost-analyzer)
+### 💰 [AWS Cost Optimization Analyzer with Real-time Alerts](https://github.com/sourav8908/aws-cost-optimization-platform.git)
 **Intelligent cost analysis platform with Slack notifications, forecasting, and anomaly detection**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -83,7 +83,7 @@
 
 ---
 
-### 🔍 [Terraform Drift Detection & Auto-Fix Tool](https://github.com/sourav8908/terraform-drift-detector)
+### 🔍 [Terraform Drift Detection & Auto-Fix Tool](https://github.com/sourav8908/terraform-drift-detector.git)
 **Automated drift detection with intelligent fix generation and CI/CD integration**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -133,7 +133,7 @@
 
 ---
 
-### 💾 [EBS Snapshot Cleanup for Cost Optimization](https://github.com/sourav8908/ebs-snapshot-cleanup)
+### 💾 [EBS Snapshot Cleanup for Cost Optimization](https://github.com/sourav8908/ebs-snapshot-cost-optimizer.git)
 **AWS Lambda automation for intelligent snapshot lifecycle management**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
