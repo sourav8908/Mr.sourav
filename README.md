@@ -228,7 +228,7 @@
 ## 💼 Professional Experience
 
 ### ☁️ Cloud & DevOps Engineer | **Unloq®, UK**
-*January 2025 - Present*
+*December 2025 - Present*
 
 - Building and managing **AI infrastructure** for UK's most advanced strategic intelligence engine
 - Working on **modern cloud and platform builds** across compute, storage, databases, identity/security, networking, monitoring, and serverless
