@@ -269,7 +269,7 @@
 
 ### 🏅 Awards
 - **Rising Star Award 2025** - Making India Employable Conference & Awards (MIECA)
-- **Top 10 Finalist** - Agent.ai Hackathon 2024
+- **Top 10 Finalist** - Agent.ai Hackathon 2025
 
 ### 📜 Certifications
 - **Oracle Cloud Infrastructure 2023 Certified Foundations Associate** - Oracle
